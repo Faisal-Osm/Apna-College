@@ -1,5 +1,5 @@
 # Apna-College
-My first repository 
-<br>
-My Name is Faisal Shaikh
 
+My first repository
+<br>
+Author - Shaikh Faisal
